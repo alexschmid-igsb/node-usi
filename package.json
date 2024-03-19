@@ -1,0 +1,23 @@
+{
+  "name": "node-usi",
+  "version": "0.1.0",
+  "description": "Node implementation of the universal sample identifier (USI)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexschmid-igsb/node-usi.git"
+  },
+  "author": "Alex Schmid, University Hospital Bonn, Germany",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alexschmid-igsb/node-usi/issues"
+  },
+  "homepage": "https://github.com/alexschmid-igsb/node-usi#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "unidecode": "^1.0.1"
+  }
+}

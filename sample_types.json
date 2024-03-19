@@ -1,0 +1,47 @@
+[
+    {
+        "code": "B",
+        "type": "Blood"
+    },
+    {
+        "code": "C",
+        "type": "Cell"
+    },
+    {
+        "code": "D",
+        "type": "DNA"
+    },
+    {
+        "code": "E",
+        "type": "Serum"
+    },
+    {
+        "code": "G",
+        "type": "Genotype"
+    },
+    {
+        "code": "I",
+        "type": "Individual"
+    },
+    {
+        "code": "L",
+        "type": "Plasma"
+    },
+    {
+        "code": "P",
+        "type": "Plasmid"
+    },
+    {
+        "code": "R",
+        "type": "RNA"
+    },
+    {
+        "code": "S",
+        "type": "Saliva"
+    },
+    {
+        "code": "T",
+        "type": "Tissue"
+    }
+]
+
